@@ -1,0 +1,2 @@
+# wingy
+Winget UI Interface
