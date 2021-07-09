@@ -10,7 +10,7 @@
 
 ---
 ## Prequisites
-
+- internet connection 
 - winget CLI [winget](https://github.com/microsoft/winget-cli)
 ---
 Features :
