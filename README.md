@@ -47,7 +47,8 @@ version selector
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T04YCPZ)
 
 ---
-
+# don't forget to star this repo
+---
 # Licence
 
 ## MIT, please see LICENSE.md for details.
