@@ -1,5 +1,8 @@
 
-![alt](https://i.imgur.com/TyyL0MG.png)
+
+<p align="center">
+  <img height="256" width="256" src="https://i.imgur.com/TyyL0MG.png">
+</p>
 
 # Wingy
 ## A GUI interface for windows package manager Winget
