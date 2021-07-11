@@ -1,4 +1,4 @@
-
+![dowloads](https://img.shields.io/github/downloads/stellarNuke/wingy/total?style=for-the-badge) 
 
 <p align="center">
   <img height="256" width="256" src="https://i.imgur.com/TyyL0MG.png">
