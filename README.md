@@ -49,6 +49,10 @@ version selector
 ---
 # don't forget to star this repo
 ---
+
+## [Discord](https://discord.gg/x4PjEwmWSY)
+
+
 # Licence
 
 ## MIT, please see LICENSE.md for details.
