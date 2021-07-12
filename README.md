@@ -11,7 +11,7 @@
 
 
 
-### version 0.0.1_beta
+### version 0.0.2_beta
 
 ---
 ## Prequisites
@@ -29,11 +29,14 @@ Features :
 ---
 ## Screenshots
 Main window
-![alt](https://imgur.com/LNjcI68.png)
+![alt](https://imgur.com/Xl4pi3O.png)
+about
+![alt](https://imgur.com/l0520jK.png)
 search
-![alt](https://imgur.com/GF5LMuw.png)
+![alt](https://imgur.com/stxqZIF.png)
 version selector
-![alt](https://imgur.com/98sAVRm.png)
+![alt](https://imgur.com/zurx2dF.png)
+
 ---
 #### Known Bugs
 
@@ -42,7 +45,7 @@ version selector
 ### upcoming features
 - able to install updates 
 - uninstall by selected version 
-- redesigned UI
+- 
 
 ### Support Me
 
