@@ -29,13 +29,15 @@ Features :
 ---
 ## Screenshots
 Main window
-![alt](https://imgur.com/Xl4pi3O.png)
+![alt](https://imgur.com/mGPBigt.png)
 about
-![alt](https://imgur.com/l0520jK.png)
+![alt](https://imgur.com/ZYNKcxA.png)
 search
-![alt](https://imgur.com/stxqZIF.png)
+![alt](https://imgur.com/bFDgE7D.png)
 version selector
 ![alt](https://imgur.com/zurx2dF.png)
+updates
+![alt](https://imgur.com/F54PJow.png)
 
 ---
 #### Known Bugs
